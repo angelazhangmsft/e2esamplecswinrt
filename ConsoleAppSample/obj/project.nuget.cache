@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eco/cSHFnPi1GUne9xy9X2be+EJdBcYPUvNkdXlCVQ5R5emkwk/Oo3lYDS8xd78IDCWUhNQ1FYs2OPqz3dDKSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angzhang\\source\\repos\\cswinrt4\\ConsoleAppSample\\ConsoleAppSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angzhang\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512",
+    "C:\\Users\\angzhang\\.nuget\\packages\\microsoft.windows.cswinrt\\0.1.0-prerelease.200928.7\\microsoft.windows.cswinrt.0.1.0-prerelease.200928.7.nupkg.sha512",
+    "C:\\Users\\angzhang\\.nuget\\packages\\simplemathcomponent\\0.1.0-prerelease\\simplemathcomponent.0.1.0-prerelease.nupkg.sha512",
+    "C:\\Users\\angzhang\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.6-preview\\microsoft.windows.sdk.net.ref.10.0.19041.6-preview.nupkg.sha512"
+  ],
+  "logs": []
+}

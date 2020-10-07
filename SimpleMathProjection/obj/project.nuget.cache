@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "skXa2zZsBhDzKFPml8lglEsDAnCGx4FE4p3aip6kXvBQroSJcdyFyv8B08VZaMLpVn3bu38Z2T1Wsj48CCcu3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angzhang\\source\\repos\\cswinrt4\\SimpleMathProjection\\SimpleMathProjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angzhang\\.nuget\\packages\\microsoft.net.compilers.toolset\\3.8.0-4.20472.6\\microsoft.net.compilers.toolset.3.8.0-4.20472.6.nupkg.sha512",
+    "C:\\Users\\angzhang\\.nuget\\packages\\microsoft.windows.cswinrt\\0.1.0-prerelease.200928.7\\microsoft.windows.cswinrt.0.1.0-prerelease.200928.7.nupkg.sha512",
+    "C:\\Users\\angzhang\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.6-preview\\microsoft.windows.sdk.net.ref.10.0.19041.6-preview.nupkg.sha512"
+  ],
+  "logs": []
+}
